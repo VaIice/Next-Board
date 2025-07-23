@@ -3,7 +3,9 @@
 #### Next.js와 Jest를 활용한 게시판 프로젝트
 
 <br>
+
 ---
+
 <br>
 ## 🛠️ Tools and Technologies
 
@@ -16,9 +18,11 @@
 ### 🧪 Test
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+<br>
 
 ---
 
+<br>
 ## 📁 프로젝트 구조 설명
 
 ```bash
@@ -36,9 +40,11 @@
 /types                 # 타입 정의
 /utils                 # 유틸 함수
 ```
+<br>
 
 ---
 
+<br>
 ## ⚙ 설치 및 실행
 
 ```bash
@@ -59,9 +65,11 @@ npm test
 
 # 브라우저에서 http://localhost:3000 접속
 ```
+<br>
 
 ---
 
+<br>
 ## 🔍 구현 사항
 
 - 게시글 목록 조회
@@ -70,23 +78,29 @@ npm test
 - 게시글 상세 조회
 - 댓글 작성 및 조회
 - 컴포넌트 단위 테스트
+<br>
 
 ---
 
+<br>
 ## 🎞 웹 페이지 화면
 
 ### 메인 화면
 
 <img width="705" height="889" alt="메인 화면" src="https://github.com/user-attachments/assets/1927b1f0-1d70-459d-b234-cfaf9e2a6b2e" />
+<br>
 
 ---
 
+<br>
 ### 상세 화면
 
 <img width="657" height="567" alt="상세 화면" src="https://github.com/user-attachments/assets/8a200da9-cba2-4477-9d6c-eeed5466fc56" />
+<br>
 
 ---
 
+<br>
 ### 작성 화면
 
 <img width="646" height="535" alt="작성 화면" src="https://github.com/user-attachments/assets/94a72850-909a-4862-83b6-4335e2d53ecf" />
