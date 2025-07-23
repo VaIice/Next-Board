@@ -8,13 +8,11 @@
 
 ### 🎨 Frontend 🎨
 
-#### TypeScript
-#### React.js
-- Next.js
-- Styled-Components
+#### TypeScript, React.js, Next.js, Styled-Components
 
 ### 🧪 Test
 
+####
 - Jest
 - React Testing Library
 
