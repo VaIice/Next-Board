@@ -2,8 +2,9 @@
 
 #### Next.js와 Jest를 활용한 게시판 프로젝트
 
+<br>
 ---
-
+<br>
 ## 🛠️ Tools and Technologies
 
 ### 🎨 Frontend 🎨
