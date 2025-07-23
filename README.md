@@ -6,7 +6,7 @@
 
 ---
 
-<br>
+<hr>
 ## 🛠️ Tools and Technologies
 
 ### 🎨 Frontend 🎨
@@ -82,17 +82,17 @@ npm test
 
 ---
 
-<br>
+<hr>
 ## 🎞 웹 페이지 화면
 
 ### 메인 화면
 
 <img width="705" height="889" alt="메인 화면" src="https://github.com/user-attachments/assets/1927b1f0-1d70-459d-b234-cfaf9e2a6b2e" />
-<br>
+<hr>
 
 ---
 
-<br>
+<hr>
 ### 상세 화면
 
 <img width="657" height="567" alt="상세 화면" src="https://github.com/user-attachments/assets/8a200da9-cba2-4477-9d6c-eeed5466fc56" />
@@ -100,7 +100,7 @@ npm test
 
 ---
 
-<br>
+<hr>
 ### 작성 화면
 
 <img width="646" height="535" alt="작성 화면" src="https://github.com/user-attachments/assets/94a72850-909a-4862-83b6-4335e2d53ecf" />
