@@ -2,6 +2,9 @@
 
 #### Next.js와 Jest를 활용한 게시판 프로젝트
 
+----
+## 📅 프로젝트 기간
+2025.07.13
 ---
 
 ## 🛠️ Tools and Technologies
