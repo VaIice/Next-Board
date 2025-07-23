@@ -83,7 +83,7 @@ npm test
 
 ### 상세 화면
 
-<img width="657" height="567" alt="상세 화면" src="https://github.com/user-attachments/assets/8a200da9-cba2-4477-9d6c-eeed5466fc56" />
+<img width="654" height="591" alt="image" src="https://github.com/user-attachments/assets/85b4a7be-c374-4bb7-8e66-90a46e2a894c" />
 
 ---
 
