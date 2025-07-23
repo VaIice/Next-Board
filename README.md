@@ -1,18 +1,18 @@
 ## 📝 Next.js 게시판 구현
 
-##### Next.js와 Jest를 활용한 게시판 프로젝트
+#### Next.js와 Jest를 활용한 게시판 프로젝트
 
 ---
 
 ## 🛠️ Tools and Technologies
 
-#### 🎨 Frontend 🎨
+### 🎨 Frontend 🎨
 
-##### TypeScript, React.js, Next.js, Styled-Components
+#### TypeScript, React.js, Next.js, Styled-Components
 
-#### 🧪 Test
+### 🧪 Test
 
-##### Jest, React Testing Library
+#### Jest, React Testing Library
 
 ---
 
